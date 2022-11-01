@@ -1,6 +1,6 @@
 {
   "parserOptions": {
-    "ecmaVersion": "latest",
+    "ecmaVersion": 8,
     "requireConfigFile": false
   },
   "env": {
